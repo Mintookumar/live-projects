@@ -1,4 +1,4 @@
 # live-projects
 This is my first git repository.
 <br>
-author - Mintoo kumar
+author - Mintoo kankrayan
